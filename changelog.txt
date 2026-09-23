@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-09-22
+  Features:
+    - Expanded the original crash-site spaceship inventory to 100 slots.
+    - Expanded the two large wreck inventories to 50 slots each.
+    - Expanded the three medium wreck inventories to 25 slots each.
+    - Added circuit-network connections to all six crash-site containers.
