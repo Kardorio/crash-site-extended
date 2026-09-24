@@ -16,6 +16,7 @@ for prototype_name, inventory_size in pairs(crash_site_containers) do
   end
 
   container.inventory_size = inventory_size
+  container.inventory_type = "with_filters_and_bar"
   container.circuit_connector = circuit_connector_definitions.chest
   container.circuit_wire_max_distance = default_circuit_wire_max_distance
 end
