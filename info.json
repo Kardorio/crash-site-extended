@@ -1,10 +1,10 @@
 {
   "name": "crash-site-extended",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "title": "Crash Site Extended",
   "author": "kardagan",
-  "homepage": "https://github.com/kardagan/factorio-crash-site-extended",
-  "description": "Extends the original crash-site spaceship and its wreckage with expanded storage and circuit-network support.",
+  "homepage": "https://github.com/Kardorio/crash-site-extended",
+  "description": "Extends the original crash-site spaceship and its wreckage with configurable storage and circuit-network support.",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.0"
